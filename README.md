@@ -2,7 +2,7 @@
 
 ## Wiederholungen
 
-### Das kleine Einmal-Eins
+### Aufgabe 5.2 - Das kleine Einmal-Eins
 
 Schreibe mit Hilfe von Schleifen das kleine 1 x 1 auf der Konsole aus. Deine Ausgabe sollte in etwa folgendermaßen aussehen: 
 
@@ -25,7 +25,7 @@ Schreibe mit Hilfe von Schleifen das kleine 1 x 1 auf der Konsole aus. Deine Aus
 
 ## Repetitions
 
-### Multiplications
+### Exercise 5.2 - Multiplications
 
 Use loops to print the 1 x 1 to the console. Your result should look something like this: 
 
