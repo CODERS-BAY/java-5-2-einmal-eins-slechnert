@@ -3,7 +3,7 @@ package com.coders.bay;
 public class einmaleins {
     public static void main(String[] args) {
 
-        for (int k = 1; k <= 10; ) {
+        for (int k = 1; k <= 10; k++) {
 
             System.out.printf("\n%der Reihe:\n\n", k);
 
@@ -11,7 +11,7 @@ public class einmaleins {
 
                 System.out.printf("%2d * %2d = %3d\n", k, i, k * i);
             }
-            ++k;
+
         }
 
     }
